@@ -1,0 +1,36 @@
+
+body{
+	background-image: url(../imagens/Fundo3.jpg);
+	background-repeat:no-repeat;
+	
+}
+
+.menu{
+	float:left;
+}
+
+h2{
+	text-align: center-left;
+	color: #1C1C1C;
+	padding-top: 18px;
+	padding-left: 1px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding-left:2em;
+
+}
+
+nav ul a {
+    text-decoration: none;
+	color:#1C1C1C;
+	font-weight: bold;
+	padding-left:3em;
+}
+
+footer{
+	color:#1C1C1C;
+	font-weight: bold;
+	padding-left:2em;
+}
